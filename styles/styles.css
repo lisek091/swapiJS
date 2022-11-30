@@ -1,0 +1,18 @@
+* {
+  background-color: darkgrey;
+}
+.frame {
+  height: 100px;
+  width: 150px;
+  font-size: large;
+}
+.frame:hover {
+  background-color: cadetblue;
+  cursor: pointer;
+}
+.objectData {
+  padding-top: 10px;
+}
+.endData {
+  background-color: antiquewhite;
+}
